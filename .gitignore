@@ -1,0 +1,5 @@
+.env
+New_dc_bot/.env
+New_dc_bot/config.json
+node_modules
+New_dc_bot/node_modules
