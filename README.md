@@ -1,6 +1,6 @@
 # Lazy_NFT_MinterBot
 ## Takes the ipfs hash of the metadata file and returns the transaction hash of the same file i.e newly minted NFT
-## What problems does it resolve?
+## What problems does it solve?
 -> One stop solution for a good user experience in minting of ERC-721 tokens.
 
 -> You can run the bot on your local machine or an online environment like repl.it
