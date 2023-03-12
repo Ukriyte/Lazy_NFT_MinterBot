@@ -1,5 +1,7 @@
 # Lazy_NFT_MinterBot
 ## Takes the ipfs hash of the metadata file and returns the transaction hash of the same file i.e newly minted NFT
+## Demo:
+https://drive.google.com/file/d/1uHuUROZec2gXf-xCHwbp3NUZi3VaWsnI/view?usp=sharing
 ## What problems does it solve?
 -> One stop solution for a good user experience in minting of ERC-721 tokens.
 
@@ -31,7 +33,7 @@ Note: the mintNFT function in scripts/mintNFT.js should have the ipfs hash of th
 For getting the ipfs hash, you can use pinata or other ipfs providers
 
 ## How to run the bot?
-Environment variables 
+### Environment variables 
 ```bash
 TOKEN="Your bot token goes here"
 ```
